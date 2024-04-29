@@ -1,0 +1,1 @@
+softap_sdk_demo.exe autosetup !softap 12345678

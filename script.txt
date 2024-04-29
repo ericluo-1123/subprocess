@@ -1,0 +1,6 @@
+{'command' : 'open', 'interface' : '(path)\\softap_sdk_demo_app\\softap_sdk_demo.exe', 'flag' : '>', 'timeout' : '5', 'loop' : 'False', 'test_pass' : 'Initialized'}
+{'command' : 'delay', 'delay_time' : '1'}
+{'command' : 'ssid ABC', 'flag' : '>', 'timeout' : '5', 'loop' : 'False'}
+{'command' : 'pass 12345678', 'flag' : '>', 'timeout' : '5', 'loop' : 'False'}
+{'command' : 'start', 'flag' : '>', 'timeout' : '1', 'loop' : 'False'}
+{'command' : 'stop', 'flag' : '>', 'timeout' : '1', 'loop' : 'False'}

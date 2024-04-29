@@ -1,0 +1,1 @@
+taskkill /f /im softap_sdk_demo.exe
